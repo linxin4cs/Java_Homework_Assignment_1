@@ -1,4 +1,7 @@
 # Java Homework Assignment 1 Description
+**Matriculation Number: 7221539**
+**Development Environment: Windows 11 x64, Eclipse 2023-06, Java 17**
+
 
 ## Problem 1
 ![Problem 1](./assets/Problem%201.png)
